@@ -1,7 +1,6 @@
-package oop.encapsulation;
+
 
 public class PatientRecord {
-
 	public static void main(String[] args) {
 		
 	Patient pt1 = new Patient ("Brian", 101, "03-15-1992", "Yes");
@@ -17,13 +16,13 @@ public class PatientRecord {
 	System.out.println(pt5.getPtName()+" "+pt5.getPtID()+" "+pt5.getPtDOB()+" "+pt5.getPtFtime()+"\n");
 	
 	
-	Patient pt4 = new Patient() ; 
-	pt4.setPtName("Jon");
-	pt4.setPtID(104);
-	pt4.setPtDOB("07-12-1996");
-	pt4.setPtFtime("Yes");
+	// Patient pt4 = new Patient(); 
+	// pt4.setPtName("Jon");
+	// pt4.setPtID(104);
+	// pt4.setPtDOB("07-12-1996");
+	// pt4.setPtFtime("Yes");
 	
-	System.out.println(pt4.getPtName()+" "+pt4.getPtID()+" "+pt4.getPtDOB()+" "+pt4.getPtFtime());
+	// System.out.println(pt4.getPtName()+" "+pt4.getPtID()+" "+pt4.getPtDOB()+" "+pt4.getPtFtime());
 	
 	
 	}
