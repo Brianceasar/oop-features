@@ -1,14 +1,9 @@
-package oop.inheritance;
-
 public class TestUserInput {
-
 	public static void main(String[] args) {
 		
-		Employee emp = new Employee();
+		Employee emp = new Employee("Welcome!");
 		emp.inputData();
 		emp.name();
-		
-		Employee emp1 = new Employee ("Welcome!");
 		
 	}
 
