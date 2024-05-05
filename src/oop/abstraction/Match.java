@@ -1,4 +1,3 @@
-package oop.abstraction;
 
 public class Match{
     public static void main(string[] args){

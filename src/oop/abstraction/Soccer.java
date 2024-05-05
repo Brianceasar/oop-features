@@ -1,4 +1,3 @@
-package oop.abstraction;
 
 public class Soccer extends Referee implements Sports{
     public void materials(){

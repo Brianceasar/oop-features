@@ -1,4 +1,3 @@
-package oop.abstraction;
 
 public interface Sports{
     public abstract void materials ();
