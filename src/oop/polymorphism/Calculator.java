@@ -1,6 +1,5 @@
-package oop.polymorphism;
 
-public class Calculator {    //overloading 
+public class Calculator {   
 	
 	public int input (int  num1, int num2, int num3) {
 		int result = (num2 * num1 * num3) ; 

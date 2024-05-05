@@ -1,4 +1,3 @@
-package oop.polymorphism;
 
 public class Results {
 
