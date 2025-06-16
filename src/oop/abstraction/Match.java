@@ -1,6 +1,6 @@
 
 public class Match{
-    public static void main(string[] args){
+    public static void main(String[] args){
         Sports sports = new Soccer();
 
         sports.materials();
